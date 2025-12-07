@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Web X",
+    "image": "/images/analisis-de-datos-comerciales.jpg",
+    "tech": ["React", "Vite", "CSS"],
+    "description": "Page with sections: about, services & contact.",
+    "link": "#"
+  },
+  {
+    "title": "App PWA Y",
+    "image": "/images/conexion.jpg",
+    "tech": ["React", "Service Worker"],
+    "description": "App to do tasks offline.",
+    "link": "#"
+  },
+  {
+    "title": "Project3",
+    "image": "/images/experiencia.jpg",
+    "tech": ["React", "Vite", "CSS"],
+    "description": "Innovation at its best",
+    "link": "#"
+  },
+  {
+    "title": "Web Musk",
+    "image": "/images/innovacion.jpg",
+    "tech": ["React", "CSS"],
+    "description": "Ego rules the world.",
+    "link": "#"
+  },
+  {
+    "title": "Proyecto Spain",
+    "image": "/images/mapa-spain.jpg",
+    "tech": ["React", "Vite"],
+    "description": "Visita nuestra web internacional.",
+    "link": "#"
+  },
+  {
+    "title": "Web Y",
+    "image": "/images/representar-ui.jpg",
+    "tech": ["React", "Service Worker"],
+    "description": "Anything you desire!",
+    "link": "#"
+  }
+]
